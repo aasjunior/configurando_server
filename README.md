@@ -305,11 +305,21 @@
 ## 16.	Adicionar ao domínio
 
 16.1.	`Win+X -> System -> Advanced system settings`
+
+![image](https://github.com/user-attachments/assets/4a243d8f-b167-40eb-923d-cc6ab565c288)
  
-16.2.	Aba Computer Name -> Change
+16.2.	Aba `Computer Name -> Change`
+
+![image](https://github.com/user-attachments/assets/422b22c7-8e77-443c-8992-e23d5c774b7b)
  
-16.3.	Inserir o nome de domínio definido no server-2025
+16.3.	Inserir o nome de `domínio` definido no `server-2025`
+
+![image](https://github.com/user-attachments/assets/220ec1f7-bf4a-4d67-abbe-21f21d05ff7a)
  
-16.4.	Autenticar com o usuário e senha do administrador do server (Etapa 2.5)
+16.4.	Autenticar com o `usuário` e `senha` do **administrador** do `server` (**Etapa 2.5**)
+
+![image](https://github.com/user-attachments/assets/a948e228-e553-45f3-9f41-dea1469a3346)
+
+![image](https://github.com/user-attachments/assets/994ae5d1-6073-4b03-838e-162f8f6a24ba)
 
  
